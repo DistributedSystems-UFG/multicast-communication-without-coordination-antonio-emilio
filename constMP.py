@@ -1,7 +1,7 @@
 #To Do: Replace all this with a naming service
 PEERS = ['3.82.252.54','44.206.246.193','54.89.99.48','54.89.224.151','3.83.232.204','54.205.49.147']
-PORT = 4567
+PORT = 5678
 N = 6
 N_MSGS = 10
 SERVER_ADDR = '44.201.246.185'
-SERVER_PORT = 4568
+SERVER_PORT = 5678
